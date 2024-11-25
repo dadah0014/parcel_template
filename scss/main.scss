@@ -1,0 +1,20 @@
+h1 {
+  color: orange;
+  display: flex;
+}
+
+img {
+  width: 100px;
+}
+
+.img {
+  width: 200px; height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  // animation: ;
+  // -o-animation: ;
+  // -moz-animation: ;
+  // -ms-transform-origin: ;
+  /* 벤더 프리픽스 */
+}
